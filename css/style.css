@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Salsa&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+
+
+body {
+	font-family: 'Salsa', serif; 
+	font-size: 18px;
+	background-color: #27374D;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif; 
+	font-weight: bold;
+}
+
+#h2-grey {
+	color : rgb(180, 180, 180);
+}
+
+a {
+	text-decoration: none;
+}
+a:hover{
+	color: black;
+}
+
+h2{
+	font-size: 45px;
+}
+
+
